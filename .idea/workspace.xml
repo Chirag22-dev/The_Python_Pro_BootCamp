@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02456610-8db0-431f-9a0b-fdeb4232c1ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/The Python Pro BootCamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data/01 Printing to console in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data/Coding Exercise.py" afterDir="false" />
+    <list default="true" id="02456610-8db0-431f-9a0b-fdeb4232c1ce" name="Changes" comment="initial  commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +19,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chirag22-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chirag22-dev/The_Python_Pro_BootCamp.git&quot;,
+    &quot;accountId&quot;: &quot;234989a4-6414-4902-ad66-348bfad1f7bf&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="38AXd22PJ4ewTJ49jb6QD4ZCUZn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,13 +45,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01 Python Primitive Data Types.executor": "Run",
+    "Python.02 String Manipulation and Code Intelligence.executor": "Run",
+    "Python.02 Type Error, Type  Checking and Type Conversion.executor": "Run",
+    "Python.03  The Python Input Function.executor": "Run",
+    "Python.03 Mathematical Operations in Python.executor": "Run",
+    "Python.04 Python Variables.executor": "Run",
     "Python.Coding Exercise.executor": "Run",
+    "Python.Coding Exercise2.executor": "Run",
+    "Python.Project - The Band Name Generator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,14 +80,108 @@
       <option name="presentableId" value="Default" />
       <updated>1768243433945</updated>
       <workItem from="1768243434811" duration="336000" />
-      <workItem from="1768307248356" duration="968000" />
+      <workItem from="1768307248356" duration="9243000" />
+      <workItem from="1768573506402" duration="3684000" />
     </task>
+    <task id="LOCAL-00001" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768308397212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768308397213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768310497745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768310497745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768311719353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768311719353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768311909161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768311909161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768313825625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768313825625</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768315549203</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768315549204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768316110350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768316110350</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768317723070</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768317723070</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768574290894</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768574290894</updated>
+    </task>
+    <task id="LOCAL-00010" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768579828665</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768579828665</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial  commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial  commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03__The_Python_Input_Function.coverage" NAME="03  The Python Input Function Coverage Results" MODIFIED="1768311603332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___The_Band_Name_Generator.coverage" NAME="Project - The Band Name Generator Coverage Results" MODIFIED="1768317594048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Type_Error__Type__Checking_and_Type_Conversion.coverage" NAME="02 Type Error, Type  Checking and Type Conversion Coverage Results" MODIFIED="1768579717881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Mathematical_Operations_in_Python.coverage" NAME="03 Mathematical Operations in Python Coverage Results" MODIFIED="1768580987516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise.coverage" NAME="Coding Exercise Coverage Results" MODIFIED="1768307844250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Python_Primitive_Data_Types.coverage" NAME="01 Python Primitive Data Types Coverage Results" MODIFIED="1768574241496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise2.coverage" NAME="Coding Exercise2 Coverage Results" MODIFIED="1768315522286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_String_Manipulation_and_Code_Intelligence.coverage" NAME="02 String Manipulation and Code Intelligence Coverage Results" MODIFIED="1768310246055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Python_Variables.coverage" NAME="04 Python Variables Coverage Results" MODIFIED="1768313791150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
   </component>
 </project>
