@@ -45,15 +45,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01 Control Flow with if-else and Conditional Operators.executor": "Run",
     "Python.01 Python Primitive Data Types.executor": "Run",
     "Python.02 String Manipulation and Code Intelligence.executor": "Run",
     "Python.02 Type Error, Type  Checking and Type Conversion.executor": "Run",
     "Python.03  The Python Input Function.executor": "Run",
     "Python.03 Mathematical Operations in Python.executor": "Run",
+    "Python.04 Number Manipulation and F Strings in Python.executor": "Run",
     "Python.04 Python Variables.executor": "Run",
     "Python.Coding Exercise.executor": "Run",
     "Python.Coding Exercise2.executor": "Run",
     "Python.Project - The Band Name Generator.executor": "Run",
+    "Python.Project - Tip Calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -81,7 +84,8 @@
       <updated>1768243433945</updated>
       <workItem from="1768243434811" duration="336000" />
       <workItem from="1768307248356" duration="9243000" />
-      <workItem from="1768573506402" duration="3684000" />
+      <workItem from="1768573506402" duration="6713000" />
+      <workItem from="1768833613728" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary="initial  commit">
       <option name="closed" value="true" />
@@ -163,7 +167,47 @@
       <option name="project" value="LOCAL" />
       <updated>1768579828665</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768581313135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768581313135</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768581322482</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768581322482</updated>
+    </task>
+    <task id="LOCAL-00013" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768581694277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768581694277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768582669655</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768582669655</updated>
+    </task>
+    <task id="LOCAL-00015" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768584823645</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768584823645</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,10 +222,12 @@
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___The_Band_Name_Generator.coverage" NAME="Project - The Band Name Generator Coverage Results" MODIFIED="1768317594048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Type_Error__Type__Checking_and_Type_Conversion.coverage" NAME="02 Type Error, Type  Checking and Type Conversion Coverage Results" MODIFIED="1768579717881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Mathematical_Operations_in_Python.coverage" NAME="03 Mathematical Operations in Python Coverage Results" MODIFIED="1768580987516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise.coverage" NAME="Coding Exercise Coverage Results" MODIFIED="1768307844250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise.coverage" NAME="Coding Exercise Coverage Results" MODIFIED="1768581588424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___Tip_Calculator.coverage" NAME="Project - Tip Calculator Coverage Results" MODIFIED="1768584748718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Python_Primitive_Data_Types.coverage" NAME="01 Python Primitive Data Types Coverage Results" MODIFIED="1768574241496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise2.coverage" NAME="Coding Exercise2 Coverage Results" MODIFIED="1768315522286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_String_Manipulation_and_Code_Intelligence.coverage" NAME="02 String Manipulation and Code Intelligence Coverage Results" MODIFIED="1768310246055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Python_Variables.coverage" NAME="04 Python Variables Coverage Results" MODIFIED="1768313791150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Number_Manipulation_and_F_Strings_in_Python.coverage" NAME="04 Number Manipulation and F Strings in Python Coverage Results" MODIFIED="1768582474796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
   </component>
 </project>
