@@ -31,6 +31,9 @@
     &quot;accountId&quot;: &quot;234989a4-6414-4902-ad66-348bfad1f7bf&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day 4- Randomisation and Python Lists/Project - Rock Paper Scissors.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -47,17 +50,37 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01 Control Flow with if-else and Conditional Operators.executor": "Run",
     "Python.01 Python Primitive Data Types.executor": "Run",
+    "Python.01 Random Module.executor": "Run",
+    "Python.01 Using For loop for Python Lists.executor": "Run",
+    "Python.02 Highest Score.executor": "Run",
+    "Python.02 Introducing the Modulo.executor": "Run",
+    "Python.02 Step_2 Replacing Blanks with Guesses.executor": "Run",
     "Python.02 String Manipulation and Code Intelligence.executor": "Run",
     "Python.02 Type Error, Type  Checking and Type Conversion.executor": "Run",
+    "Python.02 Understanding the Offset and Appending Items to Lists.executor": "Run",
     "Python.03  The Python Input Function.executor": "Run",
     "Python.03 Mathematical Operations in Python.executor": "Run",
+    "Python.03 Nested if statements and elif statements.executor": "Run",
+    "Python.03 Step_3 Checking if the player has won.executor": "Debug",
+    "Python.03 Who will pay the bill.executor": "Run",
+    "Python.03 for loops and the range function.executor": "Run",
+    "Python.04 Multiple If statements in Succession.executor": "Run",
+    "Python.04 Nested Lists.executor": "Run",
     "Python.04 Number Manipulation and F Strings in Python.executor": "Run",
     "Python.04 Python Variables.executor": "Run",
+    "Python.04 Step_4 Keeping track of players life.executor": "Run",
+    "Python.05 Pizza Order Practice.executor": "Run",
+    "Python.05 Step_5 Improving user Experience.executor": "Run",
+    "Python.Coding Exercise - FizzBuzz.executor": "Run",
     "Python.Coding Exercise.executor": "Run",
     "Python.Coding Exercise2.executor": "Run",
+    "Python.Project - Password Generator.executor": "Run",
+    "Python.Project - Rock Paper Scissors.executor": "Run",
     "Python.Project - The Band Name Generator.executor": "Run",
     "Python.Project - Tip Calculator.executor": "Run",
+    "Python.Project Treasure Island.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -70,7 +93,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -85,7 +107,14 @@
       <workItem from="1768243434811" duration="336000" />
       <workItem from="1768307248356" duration="9243000" />
       <workItem from="1768573506402" duration="6713000" />
-      <workItem from="1768833613728" duration="1146000" />
+      <workItem from="1768833613728" duration="5723000" />
+      <workItem from="1768898433186" duration="4495000" />
+      <workItem from="1768992877267" duration="6223000" />
+      <workItem from="1769068626846" duration="877000" />
+      <workItem from="1769095189313" duration="2023000" />
+      <workItem from="1769190689286" duration="1851000" />
+      <workItem from="1769337237873" duration="6200000" />
+      <workItem from="1770105292634" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="initial  commit">
       <option name="closed" value="true" />
@@ -207,7 +236,135 @@
       <option name="project" value="LOCAL" />
       <updated>1768584823645</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768839737174</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839737174</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768839899309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839899309</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768839923406</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1768839923406</updated>
+    </task>
+    <task id="LOCAL-00019" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768840891767</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768840891767</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768842007406</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768842007407</updated>
+    </task>
+    <task id="LOCAL-00021" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768842972600</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768842972600</updated>
+    </task>
+    <task id="LOCAL-00022" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768844347922</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1768844347922</updated>
+    </task>
+    <task id="LOCAL-00023" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768906564185</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1768906564185</updated>
+    </task>
+    <task id="LOCAL-00024" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768907801519</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1768907801519</updated>
+    </task>
+    <task id="LOCAL-00025" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768909914412</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1768909914412</updated>
+    </task>
+    <task id="LOCAL-00026" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1768996399848</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1768996399848</updated>
+    </task>
+    <task id="LOCAL-00027" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1769013050770</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1769013050771</updated>
+    </task>
+    <task id="LOCAL-00028" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1769014690646</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1769014690646</updated>
+    </task>
+    <task id="LOCAL-00029" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1769015596300</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1769015596300</updated>
+    </task>
+    <task id="LOCAL-00030" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1769192322142</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1769192322142</updated>
+    </task>
+    <task id="LOCAL-00031" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1769345898417</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1769345898417</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,16 +375,32 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial  commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03__The_Python_Input_Function.coverage" NAME="03  The Python Input Function Coverage Results" MODIFIED="1768311603332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___The_Band_Name_Generator.coverage" NAME="Project - The Band Name Generator Coverage Results" MODIFIED="1768317594048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___Rock_Paper_Scissors.coverage" NAME="Project - Rock Paper Scissors Coverage Results" MODIFIED="1769191969195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4- Randomisation and Python Lists" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Introducing_the_Modulo.coverage" NAME="02 Introducing the Modulo Coverage Results" MODIFIED="1768840673092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Who_will_pay_the_bill.coverage" NAME="03 Who will pay the bill Coverage Results" MODIFIED="1769014427721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4- Randomisation and Python Lists" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Type_Error__Type__Checking_and_Type_Conversion.coverage" NAME="02 Type Error, Type  Checking and Type Conversion Coverage Results" MODIFIED="1768579717881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Mathematical_Operations_in_Python.coverage" NAME="03 Mathematical Operations in Python Coverage Results" MODIFIED="1768580987516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise.coverage" NAME="Coding Exercise Coverage Results" MODIFIED="1768581588424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___Tip_Calculator.coverage" NAME="Project - Tip Calculator Coverage Results" MODIFIED="1768584748718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
-    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Python_Primitive_Data_Types.coverage" NAME="01 Python Primitive Data Types Coverage Results" MODIFIED="1768574241496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Understanding_the_Offset_and_Appending_Items_to_Lists.coverage" NAME="02 Understanding the Offset and Appending Items to Lists Coverage Results" MODIFIED="1769004045395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4- Randomisation and Python Lists" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Multiple_If_statements_in_Succession.coverage" NAME="04 Multiple If statements in Succession Coverage Results" MODIFIED="1768844323015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_Highest_Score.coverage" NAME="02 Highest Score Coverage Results" MODIFIED="1769338770134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5 - Python Loops" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Nested_if_statements_and_elif_statements.coverage" NAME="03 Nested if statements and elif statements Coverage Results" MODIFIED="1768841918028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise2.coverage" NAME="Coding Exercise2 Coverage Results" MODIFIED="1768315522286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_for_loops_and_the_range_function.coverage" NAME="03 for loops and the range function Coverage Results" MODIFIED="1769339451489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5 - Python Loops" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___Password_Generator.coverage" NAME="Project - Password Generator Coverage Results" MODIFIED="1769345706082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5 - Python Loops" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03__The_Python_Input_Function.coverage" NAME="03  The Python Input Function Coverage Results" MODIFIED="1768311603332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Control_Flow_with_if_else_and_Conditional_Operators.coverage" NAME="01 Control Flow with if-else and Conditional Operators Coverage Results" MODIFIED="1768839645140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise___FizzBuzz.coverage" NAME="Coding Exercise - FizzBuzz Coverage Results" MODIFIED="1769339893286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5 - Python Loops" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Coding_Exercise.coverage" NAME="Coding Exercise Coverage Results" MODIFIED="1768842768924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Python_Primitive_Data_Types.coverage" NAME="01 Python Primitive Data Types Coverage Results" MODIFIED="1768574241496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$05_Pizza_Order_Practice.coverage" NAME="05 Pizza Order Practice Coverage Results" MODIFIED="1768906389987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project_Treasure_Island.coverage" NAME="Project Treasure Island Coverage Results" MODIFIED="1768909889263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3 - Control Flow and Logical Operators" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Nested_Lists.coverage" NAME="04 Nested Lists Coverage Results" MODIFIED="1769015531620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4- Randomisation and Python Lists" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___The_Band_Name_Generator.coverage" NAME="Project - The Band Name Generator Coverage Results" MODIFIED="1768317594048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$03_Mathematical_Operations_in_Python.coverage" NAME="03 Mathematical Operations in Python Coverage Results" MODIFIED="1768580987516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$Project___Tip_Calculator.coverage" NAME="Project - Tip Calculator Coverage Results" MODIFIED="1768584748718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Using_For_loop_for_Python_Lists.coverage" NAME="01 Using For loop for Python Lists Coverage Results" MODIFIED="1769337695424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5 - Python Loops" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$02_String_Manipulation_and_Code_Intelligence.coverage" NAME="02 String Manipulation and Code Intelligence Coverage Results" MODIFIED="1768310246055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Python_Variables.coverage" NAME="04 Python Variables Coverage Results" MODIFIED="1768313791150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1 - Working with variables in python to manage data" />
     <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$04_Number_Manipulation_and_F_Strings_in_Python.coverage" NAME="04 Number Manipulation and F Strings in Python Coverage Results" MODIFIED="1768582474796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2 - Understanding Data Types and How to manipulate strings" />
+    <SUITE FILE_PATH="coverage/The_Python_Pro_BootCamp$01_Random_Module.coverage" NAME="01 Random Module Coverage Results" MODIFIED="1768996256726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4- Randomisation and Python Lists" />
   </component>
 </project>
