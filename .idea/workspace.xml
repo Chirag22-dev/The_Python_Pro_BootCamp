@@ -49,36 +49,52 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01 Control Flow with if-else and Conditional Operators.executor": "Run",
+    "Python.01 Function with Outputs.executor": "Run",
+    "Python.01 Functions with inputs.executor": "Run",
     "Python.01 Python Primitive Data Types.executor": "Run",
     "Python.01 Random Module.executor": "Run",
+    "Python.01 The Python Dictionary Deep Dive.executor": "Run",
     "Python.01 Using For loop for Python Lists.executor": "Run",
     "Python.02 Highest Score.executor": "Run",
     "Python.02 Introducing the Modulo.executor": "Run",
+    "Python.02 Multiple Return Values.executor": "Run",
+    "Python.02 Nesting Lists and Dictionaries.executor": "Run",
+    "Python.02 Positional vs Keyboard Arguments.executor": "Run",
     "Python.02 Step_2 Replacing Blanks with Guesses.executor": "Run",
     "Python.02 String Manipulation and Code Intelligence.executor": "Run",
     "Python.02 Type Error, Type  Checking and Type Conversion.executor": "Run",
     "Python.02 Understanding the Offset and Appending Items to Lists.executor": "Run",
     "Python.03  The Python Input Function.executor": "Run",
+    "Python.03 Caesar Cipher Part 1 Encryption.executor": "Run",
+    "Python.03 Docstrings.executor": "Run",
     "Python.03 Mathematical Operations in Python.executor": "Run",
     "Python.03 Nested if statements and elif statements.executor": "Run",
     "Python.03 Step_3 Checking if the player has won.executor": "Debug",
     "Python.03 Who will pay the bill.executor": "Run",
     "Python.03 for loops and the range function.executor": "Run",
+    "Python.04 Caesar Cipher Part 2 Decryption.executor": "Run",
     "Python.04 Multiple If statements in Succession.executor": "Run",
     "Python.04 Nested Lists.executor": "Run",
     "Python.04 Number Manipulation and F Strings in Python.executor": "Run",
     "Python.04 Python Variables.executor": "Run",
     "Python.04 Step_4 Keeping track of players life.executor": "Run",
+    "Python.05 Caesar Cipher Part 3.executor": "Run",
     "Python.05 Pizza Order Practice.executor": "Run",
     "Python.05 Step_5 Improving user Experience.executor": "Run",
     "Python.Coding Exercise - FizzBuzz.executor": "Run",
+    "Python.Coding Exercise 1.executor": "Run",
+    "Python.Coding Exercise 2.executor": "Run",
     "Python.Coding Exercise.executor": "Run",
     "Python.Coding Exercise2.executor": "Run",
     "Python.Project - Password Generator.executor": "Run",
     "Python.Project - Rock Paper Scissors.executor": "Run",
     "Python.Project - The Band Name Generator.executor": "Run",
+    "Python.Project - The Calculator Project.executor": "Run",
+    "Python.Project - The Secret Auction.executor": "Run",
     "Python.Project - Tip Calculator.executor": "Run",
     "Python.Project Treasure Island.executor": "Run",
+    "Python.logo.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -364,7 +380,47 @@
       <option name="project" value="LOCAL" />
       <updated>1769345898417</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1770133880455</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1770133880455</updated>
+    </task>
+    <task id="LOCAL-00033" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1770134100114</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1770134100114</updated>
+    </task>
+    <task id="LOCAL-00034" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1770296124224</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1770296124224</updated>
+    </task>
+    <task id="LOCAL-00035" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1770638879870</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1770638879870</updated>
+    </task>
+    <task id="LOCAL-00036" summary="initial  commit">
+      <option name="closed" value="true" />
+      <created>1771580153647</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1771580153648</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
